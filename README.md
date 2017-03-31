@@ -13,7 +13,7 @@ Video :
 
 By Grégoire Pineau (https://twitter.com/lyrixx)
 
-Slides :
+Slides : https://speakerdeck.com/lyrixx/symfony-live-2017-serializer
 
 Video : 
 
@@ -61,7 +61,7 @@ Video :
 
 By Sarah Khalil (https://twitter.com/saro0h)
 
-Slides :
+Slides : https://speakerdeck.com/saro0h/symfonylive-paris-quoi-de-neuf-depuis-1-an
 
 Video : 
 
