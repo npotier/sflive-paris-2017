@@ -59,49 +59,49 @@ Video :
 
 ## Qui veut gagner une carrière de développeur ? 
 
-By Thomas Gx
+By Thomas Gx (https://twitter.com/thomasgx)
 
 Slides :
 Video : 
 
 ## Architecture inutile ? 
 
-By Jérôme Vieilledent
+By Jérôme Vieilledent (https://twitter.com/jvieilledent)
 
 Slides :
 Video : 
 
 ## Déployer une app Symfony dans un PaaS 
 
-By Tristan Darricau
+By Tristan Darricau (https://twitter.com/nicofuma)
 
 Slides :
 Video : 
 
 ## Sécurité web : et si on continuait à tout casser ? 
 
-By Alain Tiemblo
+By Alain Tiemblo (https://twitter.com/ninsuo)
 
 Slides :
 Video : 
 
 ## Créer des webapps modernes avec Symfony, ReactJS et API Platform 
 
-By Kévin Dunglas
+By Kévin Dunglas (https://twitter.com/dunglas)
 
 Slides :
 Video : 
 
 ## Tout ce qu'un dev devrait savoir à propos d'Unicode 
 
-By Nicolas Grekas
+By Nicolas Grekas (https://twitter.com/nicolasgrekas)
 
 Slides :
 Video : 
 
 ## Optimisations de performances avec PHP 7 
 
-By Julien Pauli
+By Julien Pauli (https://twitter.com/julienpauli)
 
 Slides :
 Video : 
