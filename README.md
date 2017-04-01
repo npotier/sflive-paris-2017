@@ -93,7 +93,7 @@ Video :
 
 By Alain Tiemblo (https://twitter.com/ninsuo)
 
-Slides :
+Slides : https://github.com/ninsuo/slides/raw/master/2017%20Let's%20continue%20to%20hack!.pdf
 
 Video : 
 
