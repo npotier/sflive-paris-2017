@@ -77,7 +77,7 @@ Video :
 
 By Jérôme Vieilledent (https://twitter.com/jvieilledent)
 
-Slides :
+Slides : https://speakerdeck.com/lolautruche/architecture-inutile
 
 Video : 
 
@@ -85,7 +85,7 @@ Video :
 
 By Tristan Darricau (https://twitter.com/nicofuma)
 
-Slides :
+Slides : https://speakerdeck.com/nicofuma/symfony-live-paris-2017
 
 Video : 
 
@@ -120,3 +120,11 @@ By Julien Pauli (https://twitter.com/julienpauli)
 Slides :
 
 Video : 
+
+## Lock Component (Lightning Talk)
+
+By Fabien Bourigault‏ (https://twitter.com/fbourigault)
+
+Slides : https://speakerdeck.com/fbourigault/lock-component-lightning-talk-symfony-live-paris-2017
+
+Video :
