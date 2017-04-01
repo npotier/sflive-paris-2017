@@ -120,3 +120,11 @@ By Julien Pauli (https://twitter.com/julienpauli)
 Slides :
 
 Video : 
+
+## Lock Component (Lightning Talk)
+
+By Fabien Bourigault‏ (https://twitter.com/fbourigault)
+
+Slides : https://speakerdeck.com/fbourigault/lock-component-lightning-talk-symfony-live-paris-2017
+
+Video :
