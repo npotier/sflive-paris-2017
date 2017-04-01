@@ -85,7 +85,7 @@ Video :
 
 By Tristan Darricau (https://twitter.com/nicofuma)
 
-Slides :
+Slides : https://speakerdeck.com/nicofuma/symfony-live-paris-2017
 
 Video : 
 
