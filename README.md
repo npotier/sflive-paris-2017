@@ -45,7 +45,7 @@ Video :
 
 By Alain Hippolyte (https://twitter.com/al0ne_h)
 
-Slides :
+Slides : https://www.slideshare.net/alainhippolyte1/utiliser-webpack-dans-une-application-symfony
 
 Video : 
 
