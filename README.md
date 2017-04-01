@@ -77,7 +77,7 @@ Video :
 
 By Jérôme Vieilledent (https://twitter.com/jvieilledent)
 
-Slides :
+Slides : https://speakerdeck.com/lolautruche/architecture-inutile
 
 Video : 
 
