@@ -109,7 +109,7 @@ Video :
 
 By Nicolas Grekas (https://twitter.com/nicolasgrekas)
 
-Slides :
+Slides : https://speakerdeck.com/nicolasgrekas/tout-ce-quun-dev-devrait-savoir-a-propos-dunicode
 
 Video : 
 
