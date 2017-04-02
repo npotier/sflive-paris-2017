@@ -3,9 +3,7 @@ Liens vers les conférences présentées lors sur Symfony Live Paris 2017 : http
 
 ## Symfony 4
 
-By Fabien Potencier (https://twitter.com/fabpot) 
-
-Slides :
+By Fabien Potencier (https://twitter.com/fabpot)
 
 Video : 
 
