@@ -99,7 +99,7 @@ Video :
 
 By Kévin Dunglas (https://twitter.com/dunglas)
 
-Slides :
+Slides : https://www.slideshare.net/coopTilleuls/api-platform-21-when-symfony-meets-reactjs-symfony-live-2017
 
 Video : 
 
