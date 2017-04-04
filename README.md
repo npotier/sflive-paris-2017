@@ -1,6 +1,8 @@
 # sflive-paris-2017
 Liens vers les conférences présentées lors sur Symfony Live Paris 2017 : http://paris2017.live.symfony.com/speakers
 
+__Edit : Il y a un repo officiel créé par SymfonyLive sur lequel on peut retrouver ces conférences également : https://github.com/SymfonyLive/paris-2017-talks/__
+
 ## Symfony 4
 
 By Fabien Potencier (https://twitter.com/fabpot)
