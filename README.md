@@ -117,7 +117,7 @@ Video :
 
 By Julien Pauli (https://twitter.com/julienpauli)
 
-Slides :
+Slides : https://www.slideshare.net/jpauli/symfony-live-2017php7performances
 
 Video : 
 
