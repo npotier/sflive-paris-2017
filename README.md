@@ -37,7 +37,7 @@ Video :
 
 By Etienne Broutin
 
-Slides :
+Slides : https://www.slideshare.net/meeticTech/php-symfony-microservices-migration-meetictech
 
 Video : 
 
